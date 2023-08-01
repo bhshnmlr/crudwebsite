@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(207, 217, 255, 0.8);
+}
+
+.title {
+    text-align: center;
+    text-shadow: 5px 5px 8px rgba(255, 255, 255, 0.3);
+    font-size: 50px;
+    font-weight: bold;
+    color: #000000; /* optional color */
+  }
+.font-size-lg {
+    font-size: 20px;
+    font-weight: bolder;
+}
